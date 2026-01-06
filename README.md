@@ -1,6 +1,6 @@
 # Hubble Tension Analysis: Sound-Horizon-Independent H₀ Measurements
 
-[![DOI](https://img.shields.io/badge/arXiv-XXXX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
+[![DOI](https://img.shields.io/badge/arXiv-2601.00650-b31b1b.svg)](https://arxiv.org/abs/XXXX.XXXXX)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the data and analysis scripts accompanying the paper:
@@ -92,7 +92,7 @@ If you use this code or data, please cite:
   title = {Dissecting the Hubble tension: Insights from a diverse set of Sound Horizon-free H₀ measurements},
   journal = {arXiv preprint},
   year = {2026},
-  eprint = {XXXX.XXXXX},
+  eprint = {2601.00650},
   archivePrefix = {arXiv},
   primaryClass = {astro-ph.CO}
 }
