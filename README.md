@@ -36,12 +36,12 @@ This project utilizes advanced statistical methods to analyze the consistency of
 
 | Category Distributions (Fig 2) | Distance Ladder vs One-Step (Fig 3) |
 |:---:|:---:|
-| <img src="images/figure2.png" width="400"> | <img src="images/figure3.png" width="400"> |
+| <img src="Images/figure2.png" width="400"> | <img src="Images/figure3.png" width="400"> |
 
 **Figure 4: Bimodality Analysis**
 *Uncovering the population split within One-Step measurements by removing outliers.*
 <p align="center">
-  <img src="images/figure4.png" width="600">
+  <img src="Images/figure4.png" width="600">
 </p>
 ---
 ## Repository Contents
