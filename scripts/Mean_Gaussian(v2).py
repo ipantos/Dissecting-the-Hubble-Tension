@@ -331,4 +331,5 @@ plt.show()
 
 print("\n=== SUMMARY ===")
 for old_name, (mean, sigma_mean, sigma_scatter, n) in raw_stats.items():
+
     print(f"{label_map[old_name]} (N={n}): H₀ = {mean:.2f} ± {sigma_mean:.2f}, σ_scatter = {sigma_scatter:.1f}")
